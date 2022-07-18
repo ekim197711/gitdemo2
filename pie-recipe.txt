@@ -1,5 +1,6 @@
+oranges
 apples
+coconut
 sugar
 flour
-nuts
-rasins
+milk
