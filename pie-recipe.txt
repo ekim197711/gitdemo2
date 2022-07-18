@@ -1,5 +1,6 @@
-apples
-sugar
-flour
-nuts
-rasins
+5 apples
+2 kg sugar
+1 kg flour
+10 kg nuts
+1 kg rasins
+1 l water
